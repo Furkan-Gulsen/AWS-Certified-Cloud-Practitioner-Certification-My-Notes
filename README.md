@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner Certification Study Guide
+# AWS Certified Cloud Practitioner Certification - My Notes
 
 ## Deployment Models for Cloud Computing
 
