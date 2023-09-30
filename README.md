@@ -887,9 +887,9 @@ AWS Systems Manager helps you select and deploy operating system and software pa
 
 ## AWS GreenGrass
 
-1. AWS Greengrass, yerel cihazlarda bulut yeteneklerini çalıştırmak için tasarlanmış bir hizmettir.
-2. Greengrass, cihazlara yerel olarak Lambda fonksiyonlarını çalıştırma, veri senkronizasyonu, ve cihazların birbirleriyle güvenli bir şekilde iletişim kurmasını sağlar.
-3. Aynı zamanda, cihazlardan toplanan verileri analiz edebilmek ve buluta geri gönderebilmek için yerel olarak veri saklama ve mesajlaşma yeteneklerini de destekler
+1. AWS Greengrass is a service designed to run cloud capabilities on local devices.
+2. Greengrass enables devices to run Lambda functions locally, synchronize data, and securely communicate with each other.
+3. It also supports data storage and messaging capabilities locally to be able to analyze data collected from devices and send it back to the cloud
 
 ![img14](./images/img14.png)
 
